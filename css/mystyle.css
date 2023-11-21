@@ -97,7 +97,7 @@ body {
 	margin-top: -25px;
 }
 
-h1, h2, h3, a, small {
+h1, h2, h3, small {
 	color: #979797;
 }
 
@@ -408,15 +408,6 @@ img.work-page-images {
 	padding: 2.5% 0 5%;
 }
 
-iframe { 
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding-bottom: 2.5%;
-	overflow:hidden;
-	height: 80vh;
-	width:100%;
-}
 
 @media screen and (max-width: 768px) {
 	iframe { 
