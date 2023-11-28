@@ -429,3 +429,7 @@ img.work-page-images {
 		 margin: 0 auto;
 	}
 }
+
+.effect0:hover {
+	box-shadow: 2px 4px 4px #979797;
+}
