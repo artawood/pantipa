@@ -433,3 +433,17 @@ img.work-page-images {
 .effect0:hover {
 	box-shadow: 2px 4px 4px #979797;
 }
+
+/* IKEO Page */
+
+@media screen and (max-width: 768px) {
+	.ikeo-icon-images { 
+	width: 100%;
+	}
+}
+
+@media screen and (min-width: 769px) {
+	.ikeo-icon-images { 
+	width: 55%;
+	}
+}
